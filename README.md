@@ -1,6 +1,8 @@
 # Prediction_US_2020_Election
 
-This repo contains the data and R code for predicting the 2020 US presidential election. It was created by Zhixing Hong, Lingyue Kong, Jinyu Luo. The aiming for this is to forming a report that presents the statistical model we created to forecast the election results. As some data is not allowed to share in public , we documented how to get them below. The section of the repo are: inputs, outputs, and scripts.
+This repo contains the data and R code for predicting the 2020 US presidential election. It was created by Zhixing Hong, Lingyue Kong, Jinyu Luo. The aiming for this is to forming a report that presents the statistical model we created to forecast the election results. This project is also completed for PS2 STA304, UofT. 
+
+As some data is not allowed to share in public, we documented how to get them below. The sections of the repo are: inputs, outputs, and scripts.
 
 
 Inputs is the folder where the changed data stored. We use two datasets in the project:
@@ -19,3 +21,5 @@ Scripts contains R scripts that takes inputs and produced the outputs.
 They are:
 - 01_cleaning_survey.R
 - 01_cleaning_census.R
+
+
